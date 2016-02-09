@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+log
+*.log
+target
+.idea
+*.iml
+*.bat
+.DS_Store
+nb-configuration.xml
